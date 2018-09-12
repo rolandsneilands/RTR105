@@ -36,4 +36,4 @@
    36  ls -l
    37  rm *3*.txt
    38  history
-   39  **history > history_20180912.txt**
+   39  ```history > history_20180912.txt```
