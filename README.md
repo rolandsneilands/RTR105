@@ -22,3 +22,17 @@ ls -a
 ls -la
 history -visas iepriekš veiktās komandas
  history > history_20180905.txt
+Skripts
+mkdir Mape
+cd Mape
+mdkir MapeMape
+
+git clone https://github.com/rolandsneilands/RTR105
+ls -l
+wd
+pwd
+PATH= -piešķiršanas operācija
+cd-atpakaļ no maptes mājās
+cat/bin/ls
+cd RTR105-atvērt
+nano README.md
